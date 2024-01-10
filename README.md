@@ -11,7 +11,7 @@ cd deci
 cargo build -r
 ```
 ```
-sudo ln -s ./target/release/deci /usr/local/bin
+sudo ln -s ${PWD}/target/release/deci /usr/local/bin
 ```
 
 # how to use
